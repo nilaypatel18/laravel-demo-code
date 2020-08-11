@@ -2,23 +2,23 @@ this application contains an api for online selling medicine portal
 
 it contains following sections
 
--Medication category
+Medication category
 --------------------------------------------------
 each medication containes madication category 
 
 
--Medication
+Medication
 ------------------------------------------------
 medications are the product which is going to sell
 
 
--Lead
+Lead
 --------------------------------------------------
 admin will contact users to collect a requirement which called lead once he subscribed the lead he will become subscriber
 -lead contains address and customer info 
 
 
--Order
+Order
 ------------------------------------------------
 -subscribed user will place and order 
 -admin can download pdf too which is uploaded on AWS S3
